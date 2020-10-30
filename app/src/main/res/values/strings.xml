@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CatChat</string>
+    <string name="user_name">spot@catchat.com</string>
+
+    <!-- Fragment Labelling -->
+    <string name="inbox_fragment_label">Inbox Fragment</string>
+    <string name="draft_fragment_label">Drafts Fragment</string>
+    <string name="sent_items_fragment_label">Sent Items Fragment</string>
+    <string name="trash_fragment_label">Trash Fragment</string>
+    <string name="help_fragment_label">Help Fragment</string>
+    <string name="feedback_fragment_label">Feedback Fragment</string>
+
+    <!-- Navbar menu labelling -->
+    <string name="nav_inbox">Messagez</string>
+    <string name="nav_drafts">Draftz</string>
+    <string name="nav_sent">Sent messagez</string>
+    <string name="nav_trash">In da trash</string>
+    <string name="nav_support">Support</string>
+    <string name="nav_help">Halp</string>
+    <string name="nav_feedback">Giv us feedback</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
